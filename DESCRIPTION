@@ -1,11 +1,14 @@
 Package: HubBSP2
-Title: What the Package Does (One Line, Title Case)
+Title: Provide access to BrainSEQ Phase II processed data objects.
 Version: 0.99.0
 Date: 2023-02-17
 Authors@R: 
     person("Leonardo", "Collado-Torres", , "lcolladotor@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2140-308X"))
-Description: What the package does (one paragraph).
+Description: This is an example ExperimentHub package made live during an LIBD
+    rstats club session. It provides access to the BrainSEQ Phase II
+    RangedSummarizedExperiment object at the gene-level. See 
+    http://eqtl.brainseq.org/phase2/ for more information.
 License: Artistic-2.0
 BugReports: https://support.bioconductor.org/t/HubBSP2
 Imports: 
