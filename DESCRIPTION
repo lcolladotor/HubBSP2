@@ -16,7 +16,8 @@ Imports:
 Suggests: 
     AnnotationHubData,
     testthat (>= 3.0.0)
-biocViews: AnnotationHub
+biocViews: Homo_sapiens_Data, ExperimentHub, SequencingData, RNASeqData,
+    ExpressionData
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
